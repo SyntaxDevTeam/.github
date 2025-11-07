@@ -32,8 +32,8 @@ Jesteśmy **SyntaxDevTeam** — tworzymy zaawansowane pluginy dla serwerów Mine
 ## 🧰 Stack & zasady
 - **Kotlin + pełna kompatybilność z aktualną wersją Paper/Purpur/Folia**.
 - **HikariCP** + wielosilnikowe bazy: **H2 / SQLite / MySQL/MariaDB / PostgreSQL**.
-- **Czytelność i spójność**: wciąż doskonalimy autorskie rozwiązania, dedykowane handlery (np. `MessageHandler`), trzymamy wysoki standard.
-- **Wydajność i stabilność**: projektowanie pod współbieżność Folii oraz wysokie TPS, wydajność to motyw przewodni.
+- **Czytelność i spójność**: wciąż doskonalimy autorskie rozwiązania, dedykowane handlery (np. `MessageHandler`, `SyntaxConfigs`, `SyntaxCore` etc.), trzymamy wysoki standard.
+- **Wydajność i stabilność**: 100% kompatybilność Folia oraz wysokie TPS, wydajność to motyw przewodni.
 
 ## 🤝 Współpraca
 Chcesz zgłosić buga, pomysł lub pull request?
