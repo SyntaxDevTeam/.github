@@ -25,18 +25,25 @@ We are **SyntaxDevTeam** — we build advanced plugins for Minecraft servers run
   [![Hangar Views](https://img.shields.io/hangar/views/CleanerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/CleanerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/CleanerX/releases)
 ---
-- 🔗 **TagsX** — tag/username system with GUI, personalization, and permissions support.  
-  [![Hangar](https://img.shields.io/badge/TagsX-on%20Hangar-ff6600?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/TagsX)
-  [![TagsX](https://img.shields.io/hangar/dt/TagsX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FTagsX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/TagsX)
-  [![Hangar Views](https://img.shields.io/hangar/views/TagsX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/TagsX)
-  [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/TagsX?style=for-the-badge)](https://github.com/SyntaxDevTeam/TagsX/releases)
----
 - 🔗 **GraveDiggerX** — player “gravestones” after death: safe item recovery, logs, permissions.  
   [![Hangar](https://img.shields.io/badge/GraveDiggerX-on%20Hangar-2C2C2C?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![GraveDiggerX](https://img.shields.io/hangar/dt/GraveDiggerX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FGraveDiggerX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![Hangar Views](https://img.shields.io/hangar/views/GraveDiggerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/GraveDiggerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/GraveDiggerX/releases)
 ---
+- 🔗 **PlotsX** — lightweight land-protection plugin built for survival servers and shared player worlds.  
+  [![Hangar](https://img.shields.io/badge/PlotsX-on%20Hangar-ff6600?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
+  [![TagsX](https://img.shields.io/hangar/dt/PlotsX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FPlotsX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
+  [![Hangar Views](https://img.shields.io/hangar/views/PlotsX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
+  [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/PlotsX?style=for-the-badge)](https://github.com/SyntaxDevTeam/PlotsX/releases)
+---
+- 🔗 **AuthGatewayX** — brings two authentication methods together in one plugin: premium account verification through official Mojang services and password login for "non-premium" accounts.  
+  [![Hangar](https://img.shields.io/badge/AuthGatewayX-on%20Hangar-ff6600?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
+  [![TagsX](https://img.shields.io/hangar/dt/AuthGatewayX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FAuthGatewayX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
+  [![Hangar Views](https://img.shields.io/hangar/views/AuthGatewayX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
+  [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/AuthGatewayX?style=for-the-badge)](https://github.com/SyntaxDevTeam/AuthGatewayX/releases)
+---
+
 
 ## 🧰 Stack & principles
 - **Kotlin + full compatibility with the latest Paper/Purpur/Folia versions.**
