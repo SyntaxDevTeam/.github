@@ -13,35 +13,40 @@ We are **SyntaxDevTeam** — we build advanced plugins for Minecraft servers run
 ## 🏆 Top plugins
 > According to [syntaxdevteam.pl](https://syntaxdevteam.pl), our flagship projects include:
 
-- 🔗 **PunisherX** — comprehensive moderation system (`warn`, `mute`, `kick`, `ban`, `jail`) for server staff.  
+- 🔗 **PunisherX** — comprehensive moderation system (`warn`, `mute`, `kick`, `ban`, `jail`) for server staff.
+ 
   [![Hangar](https://img.shields.io/badge/PunisherX-on%20Hangar-000caa?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PunisherX)
   [![PunisherX](https://img.shields.io/hangar/dt/PunisherX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FPunisherX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PunisherX)
   [![Hangar Views](https://img.shields.io/hangar/views/PunisherX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PunisherX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/PunisherX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PunisherX)
-  [![Modrinth Downloads](https://img.shields.io/modrinth/dt/punisherx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/punisherx)
+  [![Modrinth Downloads](https://img.shields.io/modrinth/dt/punisherx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/punisherx)  
 ---
-- 🔗 **CleanerX** — profanity/link filter built for performance and compatibility with the latest Paper versions.  
-  [![Hangar](https://img.shields.io/badge/CleanerX-on%20Hangar-ffff55?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
-  [![CleanerX](https://img.shields.io/hangar/dt/CleanerX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FCleanerX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
-  [![Hangar Views](https://img.shields.io/hangar/views/CleanerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
-  [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/CleanerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/CleanerX/releases)
-  [![Modrinth Downloads](https://img.shields.io/modrinth/dt/cleanerx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/cleanerx)
----
-- 🔗 **GraveDiggerX** — player “gravestones” after death: safe item recovery, logs, permissions.  
+- 🔗 **GraveDiggerX** — player “gravestones” after death: safe item recovery, logs, permissions.
+ 
   [![Hangar](https://img.shields.io/badge/GraveDiggerX-on%20Hangar-2C2C2C?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![GraveDiggerX](https://img.shields.io/hangar/dt/GraveDiggerX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FGraveDiggerX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![Hangar Views](https://img.shields.io/hangar/views/GraveDiggerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/GraveDiggerX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/GraveDiggerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/GraveDiggerX/releases)
   [![Modrinth Downloads](https://img.shields.io/modrinth/dt/gravediggerx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/gravediggerx)
 ---
-- 🔗 **PlotsX** — lightweight land-protection plugin built for survival servers and shared player worlds.  
+- 🔗 **CleanerX** — profanity/link filter built for performance and compatibility with the latest Paper versions.
+ 
+  [![Hangar](https://img.shields.io/badge/CleanerX-on%20Hangar-ffff55?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
+  [![CleanerX](https://img.shields.io/hangar/dt/CleanerX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FCleanerX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
+  [![Hangar Views](https://img.shields.io/hangar/views/CleanerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
+  [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/CleanerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/CleanerX/releases)
+  [![Modrinth Downloads](https://img.shields.io/modrinth/dt/cleanerx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/cleanerx)
+---
+- 🔗 **PlotsX** — lightweight land-protection plugin built for survival servers and shared player worlds.
+ 
   [![Hangar](https://img.shields.io/badge/PlotsX-on%20Hangar-086e00?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
   [![TagsX](https://img.shields.io/hangar/dt/PlotsX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FPlotsX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
   [![Hangar Views](https://img.shields.io/hangar/views/PlotsX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/PlotsX?style=for-the-badge)](https://github.com/SyntaxDevTeam/PlotsX/releases)
   [![Modrinth Downloads](https://img.shields.io/modrinth/dt/PlotsX?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/plotsx)
 ---
-- 🔗 **AuthGatewayX** — brings two authentication methods together in one plugin: premium account verification through official Mojang services and password login for "non-premium" accounts.  
+- 🔗 **AuthGatewayX** — brings two authentication methods together in one plugin: premium account verification through official Mojang services and password login for "non-premium" accounts.
+ 
   [![Hangar](https://img.shields.io/badge/AuthGatewayX-on%20Hangar-5555ff?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
   [![TagsX](https://img.shields.io/hangar/dt/AuthGatewayX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FAuthGatewayX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
   [![Hangar Views](https://img.shields.io/hangar/views/AuthGatewayX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX)
@@ -52,7 +57,7 @@ We are **SyntaxDevTeam** — we build advanced plugins for Minecraft servers run
 
 ## 🧰 Stack & principles
 - **Kotlin + full compatibility with the latest Paper/Purpur/Folia versions.**
-- **HikariCP** + multi-engine databases: **H2 / SQLite / MySQL/MariaDB / PostgreSQL**.
+- **HikariCP** + multi-engine databases: **SQLite / MySQL/MariaDB / PostgreSQL / MSSQL**.
 - **Readability and consistency**: continuously refining in-house solutions and dedicated handlers (e.g., `MessageHandler`, `SyntaxConfigs`, `SyntaxCore`) while keeping standards high.
 - **Performance and stability**: full Folia compatibility and high TPS; performance is the main priority.
 
