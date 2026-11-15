@@ -36,7 +36,7 @@ We are **SyntaxDevTeam** — we build advanced plugins for Minecraft servers run
   [![Hangar Views](https://img.shields.io/hangar/views/CleanerX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/CleanerX)
   [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/CleanerX?style=for-the-badge)](https://github.com/SyntaxDevTeam/CleanerX/releases)
   [![Modrinth Downloads](https://img.shields.io/modrinth/dt/cleanerx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/cleanerx)
----
+<!--
 - 🔗 **PlotsX** — lightweight land-protection plugin built for survival servers and shared player worlds.
  
   [![Hangar](https://img.shields.io/badge/PlotsX-on%20Hangar-086e00?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/PlotsX)
@@ -49,7 +49,7 @@ We are **SyntaxDevTeam** — we build advanced plugins for Minecraft servers run
  
   [![AuthGatewayX](https://img.shields.io/badge/AuthGatewayX-on%20SyntaxDevTeam.pl-5555ff?style=for-the-badge)]([https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX](https://syntaxdevteam.pl/builds/authgatewayx/index.php?route=%2Fbuilds%2Fauthgatewayx%2Fdownload&platform=paper&game_version=26.3&channel=release)) <!--[![AuthGatewayX](https://img.shields.io/hangar/dt/AuthGatewayX?link=https%3A%2F%2Fhangar.papermc.io%2FSyntaxDevTeam%2FAuthGatewayX&style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX) [![Hangar Views](https://img.shields.io/hangar/views/AuthGatewayX?style=for-the-badge)](https://hangar.papermc.io/SyntaxDevTeam/AuthGatewayX) --> [![Release](https://img.shields.io/github/v/release/SyntaxDevTeam/AuthGatewayX?style=for-the-badge)](https://github.com/SyntaxDevTeam/AuthGatewayX/releases)
   [![Modrinth Downloads](https://img.shields.io/modrinth/dt/authgatewayx?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C)](https://modrinth.com/plugin/authgatewayx)
----
+--->
 
 
 ## 🧰 Stack & principles
